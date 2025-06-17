@@ -23,6 +23,7 @@ Implementar el algoritmo de ordenación Quicksort, y shellsort con la clase Link
 - [Ordenar:](https://github.com/Dougdree/Practica/blob/main/unl-practica2/src/main/java/com/unl/practica2/base/controller/dataStruct/list/Ordenar.java)
 ## Segunda parte. Metodos de busqueda
 Implementar el algoritmo de búsqueda binario y lineal binario con la clase LinkedList vista en clases usando objetos y datos use los resultados de la practica 2 , no usar librerías externas ni las clases propias del lenguaje de programación.
+- [Utiles:](https://github.com/Dougdree/Practica/blob/main/unl-practica2/src/main/java/com/unl/practica2/base/controller/dataStruct/list/Utiles.java)
 - [DaoCancion:](https://github.com/Dougdree/Practica/blob/main/unl-practica2/src/main/java/com/unl/practica2/base/controller/dao/dato_models/DaoCancion.java)
 - [CancionService:](https://github.com/Dougdree/Practica/blob/main/unl-practica2/src/main/java/com/unl/practica2/base/controller/services/CancionService.java)
 - [ViewsCancion:](https://github.com/Dougdree/Practica/blob/main/unl-practica2/src/main/frontend/views/cancion-list.tsx)
